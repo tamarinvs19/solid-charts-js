@@ -1,0 +1,48 @@
+{
+  "name": "solid-chart.js",
+  "version": "1.0.7",
+  "description": "Solid components for ChartJS library",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./types/index.d.ts",
+  "files": [
+    "dist",
+    "types"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "types": "tsc"
+  },
+  "keywords": [
+    "solid-js",
+    "chart.js"
+  ],
+  "author": "foxpro tuningiposadka@gmail.com",
+  "license": "ISC",
+  "homepage": "https://github.com/MrFoxPro/solid-chart.js",
+  "bugs": {
+    "url": "https://github.com/MrFoxPro/solid-chart.js/issues"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-typescript": "^7.10.4",
+    "@rollup/plugin-babel": "^5.2.0",
+    "@rollup/plugin-commonjs": "^15.0.0",
+    "@rollup/plugin-node-resolve": "^9.0.0",
+    "@rollup/plugin-strip": "^2.0.0",
+    "@types/chart.js": "^2.9.24",
+    "@types/lodash.clonedeep": "^4.5.6",
+    "@types/lodash.merge": "^4.6.6",
+    "babel-preset-solid": "^0.19.0",
+    "babel-preset-typescript": "^7.0.0-alpha.19",
+    "rollup": "^2.26.10",
+    "rollup-plugin-delete": "^2.0.0",
+    "typescript": "^4.1.0-dev.20200828"
+  },
+  "dependencies": {
+    "chart.js": "^2.9.3",
+    "lodash.clonedeep": "^4.5.0",
+    "lodash.merge": "^4.6.2",
+    "solid-js": "^0.19.2"
+  }
+}
