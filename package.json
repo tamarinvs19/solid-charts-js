@@ -1,6 +1,6 @@
 {
-  "name": "solid-chart.js",
-  "version": "1.0.7",
+  "name": "solid-charts-js",
+  "version": "1.0.8",
   "description": "Solid components for ChartJS library",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -17,11 +17,11 @@
     "solid-js",
     "chart.js"
   ],
-  "author": "foxpro tuningiposadka@gmail.com",
-  "license": "ISC",
-  "homepage": "https://github.com/MrFoxPro/solid-chart.js",
+  "author": "Vyacheslav Tamarin tamarin.vs@ya.com",
+  "license": "MIT",
+  "homepage": "https://github.com/tamarinvs19/solid-charts-js",
   "bugs": {
-    "url": "https://github.com/MrFoxPro/solid-chart.js/issues"
+    "url": "https://github.com/tamarinvs19/solid-charts-js/issues"
   },
   "devDependencies": {
     "@babel/core": "^7.11.6",
