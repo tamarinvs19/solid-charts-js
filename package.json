@@ -1,6 +1,6 @@
 {
   "name": "solid-charts-js",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Solid components for ChartJS library",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -17,8 +17,8 @@
     "solid-js",
     "chart.js"
   ],
-  "author": "Vyacheslav Tamarin tamarin.vs@ya.com",
-  "license": "MIT",
+  "author": "foxpro tuningiposadka@gmail.com and Vyacheslav Tamarin tamarin.vs@ya.com",
+  "license": "ISC",
   "homepage": "https://github.com/tamarinvs19/solid-charts-js",
   "bugs": {
     "url": "https://github.com/tamarinvs19/solid-charts-js/issues"
